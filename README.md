@@ -46,7 +46,7 @@ Benefits:
 - Layer 2 adjacency across Layer 3 boundaries
 - Support for dynamic provisioning via SDN controllers
 
-- 
+  
 # FLANNEL
 Flannel is a container networking solution that helps Kubernetes pods communicate across nodes. It creates an overlay network that assigns each host a unique subnet from a larger address space, allowing containers on different machines to talk as if they’re on the same local network.
 - Developed by CoreOS, now maintained by the Flannel community.
@@ -82,7 +82,6 @@ Cloud environments are multi-tenant, distributed, and dynamic. Overlay networks 
 - Security: Enables encrypted tunnels and policy enforcement.
 
 
-- 
-
+  
 
 
